@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+| ทิพย์อาภา จริยวงศ์พรหม | 4o4 Team Not Found |Embedded IoT Developer | กำลังทำ | - |
 
 ---
 
